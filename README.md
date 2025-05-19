@@ -1,13 +1,13 @@
 
 <p align="center"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&layout=compact"></p>
-<h1 align="center">Hi 👋, I'm Dilshodbek</h1>
+<h1 align="center">Hi 👋, I'm Otabek</h1>
 <h3 align="center">A passionate backend developer from Uzbekistan</h3>
 <p align="center">
 
 
 - 🔭 Self Employed
 - 💬 Ask me about **Python, Django, Sql, PostgreSQL, Telegram Bot**
-- 📫 How to reach me [**absaitovdev@gmail.com**](mailto:absaitovdev@gmail.com)
+- 📫 How to reach me [**artyom.bw08@gmail.com**](mailto:absaitovdev@gmail.com)
 
 
 ![Snake](https://profile-readme-generator.com/assets/snake.svg)
