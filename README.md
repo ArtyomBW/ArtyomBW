@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="600">
-</p>
 
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+👋,+I'm+Otabek+Artyom_BW&font=Poppins&center=true&width=500&height=70&color=8A2BE2&vCenter=true&size=32&pause=2500&multiline=false&repeat=true">
