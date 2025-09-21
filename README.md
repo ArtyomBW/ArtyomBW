@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="500">
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="600">
 </p>
 
 <h1 align="center">Hi 👋, I'm Otabek Orazboyev</h1>
