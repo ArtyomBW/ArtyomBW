@@ -1,9 +1,7 @@
 
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+World!+👋;This+is+{YourName}....;Nice+to+meet+you!&center=true&size=30">
-  </a>
-</h1>
+<p align="center">
+  <img width="600" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines-colored.png">
+</p>
 
 <h1 align="center">Hi 👋, I'm Otabek Orazboyev</h1>
 
