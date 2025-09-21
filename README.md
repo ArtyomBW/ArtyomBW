@@ -1,7 +1,9 @@
 
-<p align="center">
-  <img src="https://github.com/{username}/blob/main/assets/github-skyline.gif" width="600">
-</p>
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+World!+👋;This+is+{YourName}....;Nice+to+meet+you!&center=true&size=30">
+  </a>
+</h1>
 
 <h1 align="center">Hi 👋, I'm Otabek Orazboyev</h1>
 
