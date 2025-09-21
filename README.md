@@ -1,10 +1,10 @@
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+👋,+I'm+Otabek+Artyom_BW&font=Poppins&center=true&width=500&height=70&color=8A2BE2&vCenter=true&size=32&pause=2500&multiline=false&repeat=true">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+👋,+I'm+Otabek+Artyom_BW&font=Poppins&center=true&width=500&height=70&color=8A2BE2&vCenter=true&size=32&pause=4000&multiline=false&repeat=true">
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Mit+starkem+Hass+gegen+den+Strom&font=Fira%20Code&center=true&width=450&height=60&color=9370DB&vCenter=true&size=22&pause=1500&multiline=false&repeat=true">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Mit+starkem+Hass+gegen+den+Strom&font=Fira%20Code&center=true&width=380&height=50&color=8A2BE2&vCenter=true&size=20&pause=2000&multiline=false&repeat=true">
 </p>
 
 <h3 align="center">A passionate Python Backend Developer from Uzbekistan</h3>
