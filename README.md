@@ -2,7 +2,9 @@
   <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="600">
 </p>
 
-<h1 align="center">Hi 👋, I'm Otabek </h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+👋,+I'm+Otabek&font=Fira%20Code&center=true&width=500&height=70&color=9370DB&vCenter=true&size=28&pause=3000&multiline=false&repeat=true">
+</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Mit+starkem+Hass+gegen+den+Strom&font=Fira%20Code&center=true&width=450&height=60&color=9370DB&vCenter=true&size=22&pause=1500&multiline=false&repeat=true">
