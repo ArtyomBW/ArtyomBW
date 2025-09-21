@@ -1,5 +1,8 @@
 
-<p align="center"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&layout=compact"></p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Otabek Orazboyev</h1>
 
 <p align="center">
