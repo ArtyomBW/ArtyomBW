@@ -25,19 +25,22 @@
 
 ## 🚀 Featured Projects:
 
-**Telegram Bots (Aiogram):**
-- 🎬 **Film Bot** - Quick movie search with multi-language support
-- 🚗 **Taxi Bot** - Complete taxi management system with user/driver/admin panels, distance calculation, and dynamic pricing
-
 **Django & DRF:**
-- 🛒 **100K & Alihaxon** - E-commerce platform clones
-- 📊 **Leaderboard System** - Student assignment management with AI-powered grading and teacher reviews
-- 🅿️ **Parking Management System** - Smart parking zone management with real-time status tracking
+### GUDS
+Backend platform built with Django REST Framework.  
+* Production-ready startup project with JWT & SSO authentication, billing, analytics, chats, role-based access control, and error monitoring via Sentry.
 
 **FastAPI:**
-- 🎓 **Online Learning Center** - Educational platform with Starlette admin panel and PostgreSQL
-- 💬 **Real-time Chat** - WebSocket-based chat application
+**Online Learning Center** - Educational platform with Starlette admin panel and PostgreSQL
+**Real-time Chat** - WebSocket-based chat application
+** Crypto Price Service 
+** Service for periodic fetching and storing cryptocurrency prices (BTC, ETH).  
+** Built with FastAPI, Celery, Redis, PostgreSQL, and Docker Compose. Provides REST API for historical and latest prices.
 
+**Telegram Bots (Aiogram):**
+**Film Bot** - Quick movie search with multi-language support
+**Taxi Bot** - Complete taxi management system with user/driver/admin panels, distance calculation, and dynamic pricing
+- 
 
 # 💻 Tech Stack:
 
