@@ -23,26 +23,37 @@
 
 [![Telegram](https://img.shields.io/badge/Telegram-%231DA1F2.svg?logo=Telegram&logoColor=white)](https://Bewrlius_py.t.me/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dilshod-absaitov/)  [![Gmail](https://img.shields.io/badge/artyom.bw08@gmail.com-%230077B5.svg?logo=google&logoColor=white)](mailto:artyom.bw08@gmail.com) [![LeetCode](https://img.shields.io/badge/LeetCode-%231DA1F2.svg?logo=leetcode&logoColor=ffdd54)](https://leetcode.com/u/ArtyomBW/)
 
-## 🚀 Featured Projects:
+## Featured Projects:
 
-**Django & DRF:**
-### GUDS
-** Backend platform built with Django REST Framework.  
-** Production-ready startup project with JWT & SSO authentication, billing, analytics, chats, role-based access control, and error monitoring via Sentry.
+### Django & DRF
+#### GUDS
+Backend platform built with Django REST Framework.  
+Production-ready startup project with JWT & SSO authentication, billing, analytics, chats, role-based access control, and error monitoring via Sentry.
 
-**FastAPI:**
-**Online Learning Center** - Educational platform with Starlette admin panel and PostgreSQL
-**Real-time Chat** - WebSocket-based chat application
-**Crypto Price Service** 
-** Service for periodic fetching and storing cryptocurrency prices (BTC, ETH).  
-** Built with FastAPI, Celery, Redis, PostgreSQL, and Docker Compose. Provides REST API for historical and latest prices.
+---
 
-**Telegram Bots (Aiogram):**
-**Film Bot** - Quick movie search with multi-language support
-**Taxi Bot** - Complete taxi management system with user/driver/admin panels, distance calculation, and dynamic pricing
-- 
+### FastAPI
+#### Crypto Price Service
+Service for periodic fetching and storing cryptocurrency prices (BTC, ETH).  
+Built with FastAPI, Celery, Redis, PostgreSQL, and Docker Compose. Provides REST API for historical and latest prices.
 
-# 💻 Tech Stack:
+#### Online Learning Center 
+Educational platform with Starlette admin panel and PostgreSQL
+
+#### Real-time Chat
+WebSocket-based real-time chat application built with FastAPI.
+
+---
+
+### Telegram Bots (Aiogram)
+#### Taxi Bot
+Complete taxi management system with user, driver, and admin flows, distance calculation, and dynamic pricing.
+
+#### Film Bot
+Quick movie search bot with multi-language support.
+
+
+# Tech Stack:
 
 **Backend & Frameworks:**
 ![Python](https://img.shields.io/badge/Python-information?color=3670A0&style=flat&logo=python&logoColor=ffdd54)
