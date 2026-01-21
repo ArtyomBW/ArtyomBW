@@ -93,4 +93,3 @@ Quick movie search bot with multi-language support.
 
 
    <img src="https://profile-counter.glitch.me/{ArtyomBW}/count.svg"/>
-</p>
