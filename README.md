@@ -92,4 +92,4 @@ Quick movie search bot with multi-language support.
 ![PyCharm](https://img.shields.io/badge/PyCharm-information?style=flat&logo=pycharm&logoColor=black&color=black&labelColor=green)
 
 
-   <img src="https://profile-counter.glitch.me/{ArtyomBW}/count.svg"/>
+<img src="https://profile-counter.glitch.me/ArtyomBW/count.svg" />
