@@ -27,13 +27,13 @@
 
 **Django & DRF:**
 ### GUDS
-Backend platform built with Django REST Framework.  
-* Production-ready startup project with JWT & SSO authentication, billing, analytics, chats, role-based access control, and error monitoring via Sentry.
+** Backend platform built with Django REST Framework.  
+** Production-ready startup project with JWT & SSO authentication, billing, analytics, chats, role-based access control, and error monitoring via Sentry.
 
 **FastAPI:**
 **Online Learning Center** - Educational platform with Starlette admin panel and PostgreSQL
 **Real-time Chat** - WebSocket-based chat application
-** Crypto Price Service 
+**Crypto Price Service** 
 ** Service for periodic fetching and storing cryptocurrency prices (BTC, ETH).  
 ** Built with FastAPI, Celery, Redis, PostgreSQL, and Docker Compose. Provides REST API for historical and latest prices.
 
