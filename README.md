@@ -91,6 +91,4 @@ Quick movie search bot with multi-language support.
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=flat&logo=swagger&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/PyCharm-information?style=flat&logo=pycharm&logoColor=black&color=black&labelColor=green)
 
----
-
 <!-- <img src="https://profile-counter.glitch.me/ArtyomBW/count.svg" /> -->
