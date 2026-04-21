@@ -37,11 +37,10 @@
 - Integrated payments, analytics, Celery and ClickHouse
 - Worked with JWT and production environment
 
-### Bito ERP — ERP Integration
-- Implemented and configured ERP system for clients
-- Integrated AmoCRM and business processes
-- Configured CRM, warehouse, finance and HR modules
-- Provided technical support and user onboarding
+### Bito ERP — ERP Integration (Current Internship)
+- Currently working as an ERP Integrator Intern
+- Participating in ERP system setup and configuration for clients
+- Helping with AmoCRM connection, user onboarding and technical support
 
 
 # Tech Stack:
