@@ -23,7 +23,7 @@
 
 [![Telegram](https://img.shields.io/badge/Telegram-%231DA1F2.svg?logo=Telegram&logoColor=white)](https://Bewrlius_py.t.me/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dilshod-absaitov/)  [![Gmail](https://img.shields.io/badge/artyom.bw08@gmail.com-%230077B5.svg?logo=google&logoColor=white)](mailto:artyom.bw08@gmail.com) [![LeetCode](https://img.shields.io/badge/LeetCode-%231DA1F2.svg?logo=leetcode&logoColor=ffdd54)](https://leetcode.com/u/ArtyomBW/)
 
-## 💼 Real Projects
+## 💼 Featured Projects
 
 ### GUDS — Recruiting Platform
 - Developed backend APIs using Django REST Framework
