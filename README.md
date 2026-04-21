@@ -23,34 +23,25 @@
 
 [![Telegram](https://img.shields.io/badge/Telegram-%231DA1F2.svg?logo=Telegram&logoColor=white)](https://Bewrlius_py.t.me/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dilshod-absaitov/)  [![Gmail](https://img.shields.io/badge/artyom.bw08@gmail.com-%230077B5.svg?logo=google&logoColor=white)](mailto:artyom.bw08@gmail.com) [![LeetCode](https://img.shields.io/badge/LeetCode-%231DA1F2.svg?logo=leetcode&logoColor=ffdd54)](https://leetcode.com/u/ArtyomBW/)
 
-## Featured Projects:
+## 💼 Real Projects
 
-### Django & DRF
-#### GUDS
-Backend platform built with Django REST Framework.  
-Production-ready startup project with JWT & SSO authentication, billing, analytics, chats, role-based access control, and error monitoring via Sentry.
+### GUDS — Recruiting Platform
+- Developed backend APIs using Django REST Framework
+- Implemented JWT and SSO authentication
+- Built chat, billing and analytics features
+- Integrated Sentry and Telegram bot for monitoring
 
----
+### Bron24 — Sports Booking Platform
+- Worked on backend for V2 platform
+- Implemented booking system, slots and notifications
+- Integrated payments, analytics, Celery and ClickHouse
+- Worked with JWT and production environment
 
-### FastAPI
-#### Crypto Price Service
-Service for periodic fetching and storing cryptocurrency prices (BTC, ETH).  
-Built with FastAPI, Celery, Redis, PostgreSQL, and Docker Compose. Provides REST API for historical and latest prices.
-
-#### Online Learning Center 
-Educational platform with Starlette admin panel and PostgreSQL
-
-#### Real-time Chat
-WebSocket-based real-time chat application built with FastAPI.
-
----
-
-### Telegram Bots (Aiogram)
-#### Taxi Bot
-Complete taxi management system with user, driver, and admin flows, distance calculation, and dynamic pricing.
-
-#### Film Bot
-Quick movie search bot with multi-language support.
+### Bito ERP — ERP Integration
+- Implemented and configured ERP system for clients
+- Integrated AmoCRM and business processes
+- Configured CRM, warehouse, finance and HR modules
+- Provided technical support and user onboarding
 
 
 # Tech Stack:
